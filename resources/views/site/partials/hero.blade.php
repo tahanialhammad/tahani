@@ -4,7 +4,7 @@
 
 
             <div class="md:w-1/2 flex flex-col justify-center space-y-6 py-6 text-center md:text-left text-slate-900">
-                <h1 class="font-bold text-3xl md:text-5xl">tahani alhammad frontend developer</h1>
+                <h1 class="font-bold text-3xl md:text-5xl uppercase ">tahani alhammad frontend developer</h1>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto fugiat laudantium deleniti impedit earum
                     vel a eveniet est optio quibusdam maxime, enim architecto fugit vitae recusandae deserunt beatae eius
                     facilis.
